@@ -1,0 +1,68 @@
+# Privacy Policy — Apple Price Tracker for Amazon Deals & Alerts
+
+**Last updated: July 22, 2026**
+
+This privacy policy covers the Chrome extension **"Apple Price Tracker for Amazon Deals & Alerts"** (the "Extension").
+
+## Summary
+
+The Extension does not collect, store, or sell any personal information. There are no user accounts, no analytics, and no tracking of any kind.
+
+## What the Extension stores
+
+All Extension data is stored **locally on your device** using Chrome's extension storage:
+
+- Your **watchlist** (product IDs, prices, and dates of products you choose to watch)
+- Your **price drop alerts** (generated locally on your device)
+- Your **preferences** (selected region, theme, notification settings)
+
+None of this data is transmitted to us or to any third party.
+
+### Optional Chrome Sync
+
+If you enable **"Sync Across Devices"** in Settings, your watchlist is stored in your own Google account via Chrome's built-in sync (`chrome.storage.sync`). This data goes to Google's Chrome Sync service under your Google account — we never see it and have no access to it. This feature is off by default and can be disabled anytime, which also deletes the synced copy.
+
+## Network requests
+
+The Extension fetches Apple product listings, prices, and deal information from our API server. These requests:
+
+- contain **no personal information and no identifiers** — only the product IDs or search terms needed to show you prices
+- are standard HTTPS requests; like any web server, ours processes your IP address transiently for rate limiting and abuse prevention, and does not use it to identify or profile you
+
+## Optional Amazon page button
+
+If you enable the **"Amazon Page Button"** in Settings (off by default), the Extension runs a small script on Amazon product pages that:
+
+- reads **only the product ID (ASIN) from the page address** to check whether it is an Apple product we track
+- does **not** read, collect, or modify any page content, and does **not** track your browsing
+
+You can turn this off anytime in Settings, which removes the script and the associated permission.
+
+## Notifications
+
+Price drop notifications are generated locally on your device by comparing prices you watch. They can be disabled in Settings.
+
+## Affiliate disclosure
+
+Links to Amazon in the Extension are affiliate links. As an Amazon Associate, we earn from qualifying purchases. This does not involve any collection of your personal data by us.
+
+## What we do NOT do
+
+- No collection of personal information
+- No user accounts or server-side profiles
+- No analytics or telemetry
+- No browsing history tracking
+- No selling or sharing of data with third parties
+- No advertising
+
+## Changes to this policy
+
+Any changes will be posted on this page with an updated date.
+
+## Contact
+
+Questions about this policy: open an issue on this repository, or email **mahfoozceecy@gmail.com**.
+
+---
+
+*This extension is not affiliated with, endorsed by, or sponsored by Amazon or Apple Inc.*
