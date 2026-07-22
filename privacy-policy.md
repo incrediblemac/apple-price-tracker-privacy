@@ -61,7 +61,7 @@ Any changes will be posted on this page with an updated date.
 
 ## Contact
 
-Questions about this policy: open an issue on this repository, or email **mahfoozceecy@gmail.com**.
+Questions about this policy: open an issue on this repository, or email **fullscreendev@gmail.com**.
 
 ---
 
