@@ -2,7 +2,7 @@
 
 **Last updated: October 19, 2026**
 
-This privacy policy covers the Chrome extension **"Apple Price Tracker for Amazon Deals & Alerts"** (the "Extension"), published by [TechNewsPrice.com](https://www.technewsprice.com/).
+This privacy policy covers the Chrome extension **"Apple Price Tracker for Amazon Deals & Alerts"** (the "Extension").
 
 ## Summary
 
@@ -72,7 +72,7 @@ Questions about this policy: open an issue on this repository, or email **fullsc
 
 ## About us
 
-Apple Price Tracker is made by the team behind [TechNewsPrice.com](https://www.technewsprice.com/), which tracks Apple prices and deals on Amazon, and [TechStoriesIndia.com](https://techstoriesindia.com/) and [TechStoriesIndia.in](https://techstoriesindia.in/), covering tech news, gadget launches, specs and buying guides.
+Apple Price Tracker is made by the team behind [TechStoriesIndia.com](https://techstoriesindia.com/), covering tech news, launches and how-tos, and [TechStoriesIndia.in](https://techstoriesindia.in/), covering gadget launches, specs and buying guides.
 
 ---
 
